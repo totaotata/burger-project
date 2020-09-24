@@ -3,3 +3,6 @@ h1 {
   justify-content: center;
   margin: 20%;
 }
+body {
+  background-color: grey;
+}
